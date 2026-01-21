@@ -17,4 +17,4 @@ Architecting scalable systems, integrating AI/ML into production applications, a
 PhD candidate in Mechanical Engineering (Computational Chemistry) (paused) | Former Assistant Professor @ Universidade de Coimbra | Published researcher
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/joaomota00) • [ResearchGate](https://www.researchgate.net/profile/Joao-Mota-33)
+[LinkedIn](https://www.linkedin.com/in/joaomota00) 
