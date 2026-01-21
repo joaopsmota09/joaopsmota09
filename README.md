@@ -1,16 +1,20 @@
-## Hi there 👋
+# João Mota
+**Founding Engineer @ Plutus Media** | Full-Stack Developer | Data Engineer
 
-<!--
-**joaopsmota09/joaopsmota09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building enterprise-grade SaaS platforms with AWS architecture, modern React/Next.js frontends, and AI-powered analytics.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+**Backend:** Python (FastAPI, Flask) | Node.js (Express) | AWS | MySQL/PostgreSQL/DynamoDB | Redis  
+**Frontend:** Next.js | React | TypeScript | Tailwind CSS  
+**Cloud:** AWS (Lambda, API Gateway, RDS, S3, DynamoDB, Step Functions) | Docker | CI/CD  
+**AI/ML:** Claude AI | Google Gemini | TensorFlow | OpenCV | DeepFace  
+**Scientific:** C++20 | MATLAB | Numerical Methods | Optimization Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+Architecting scalable systems, integrating AI/ML into production applications, and building better products.
+
+## 📚 Background
+PhD candidate in Mechanical Engineering (Computational Chemistry) (paused) | Former Assistant Professor @ Universidade de Coimbra | Published researcher
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/joaomota00) • [ResearchGate](https://www.researchgate.net/profile/Joao-Mota-33)
