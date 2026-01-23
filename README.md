@@ -18,3 +18,5 @@ PhD candidate in Mechanical Engineering (Computational Chemistry) (paused) | For
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/joaomota00) 
+
+[**mota.sh**](https://mota.sh) 
