@@ -11,7 +11,7 @@ Building enterprise-grade SaaS platforms with AWS architecture, modern React/Nex
 **Scientific:** C++20 | MATLAB | Numerical Methods | Optimization Algorithms
 
 ## 🎯 Current Focus
-Architecting scalable systems, integrating AI/ML into production applications, and building better products.
+Architecting scalable systems, integrating AI into production applications, and building product at Plutus Media.
 
 ## 📚 Background
 PhD candidate in Mechanical Engineering (Computational Chemistry) (paused) | Former Assistant Professor @ Universidade de Coimbra | Published researcher
